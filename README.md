@@ -6,4 +6,4 @@
    d'une manière qui les rendra faciles à suivre.
 ## L'interface de l'application
    ### Page Principale
-![alt text](/Screenshots/Screenshot_20201231_113202_com.example.cookingapp.jpg)
+<img src="/Screenshots/Screenshot_20201231_113202_com.example.cookingapp.jpg" width="400" margin-right="10px"> <img src="/Screenshots/Screenshot_20201231_113214_com.example.cookingapp.jpg" width="400">
