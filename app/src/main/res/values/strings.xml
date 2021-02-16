@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">CookingApp</string>
+    <string name="supporting_text">supporting text</string>
+    <string name="secondary_text">secondary text</string>
+    <string name="title">Title</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="image">image</string>
+    <string name="servings_4">Servings: 4</string>
+    <string name="learn_more">Learn more</string>
+    <string name="roasted_eggplant_with_saffron_yogurt">Roasted Eggplant with Saffron Yogurt</string>
+    <string name="titleEdit">title</string>
+    <string name="serves">Serves</string>
+    <string name="difficulty">Difficulty</string>
+    <string name="easy">Easy</string>
+    <string name="medium">Medium</string>
+    <string name="hard">Hard</string>
+    <string name="string_easy">Easy</string>
+    <string name="choose_an_image">Choose an Image</string>
+    <string name="submit">Submit</string>
+    <string name="todo">TODO</string>
+    <string name="submit_dish">Submit dish</string>
+    <string name="shr_error_password">Required !</string>
+    <string name="imageMsg">Image loaded</string>
+    <string name="dismiss_text">Dismiss</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="preparation">Preparation</string>
+    <string name="type">Type</string>
+    <string name="submit_changes">Submit Changes</string>
+    <string name="favorite">favorite</string>
+    <string name="search">search</string>
+    <string name="more">more</string>
+    <string name="content_description_search" />
+    <string name="content_description_more" />
+    <string name="content_description_favorite" />
+</resources>
